@@ -118,11 +118,6 @@
     "not ie <= 10"
   ],
   "checkFiles": [
-    "src/**/*.js*",
-    "src/**/*.ts*",
-    "src/**/*.less",
-    "config/**/*.js*",
-    "scripts/**/*.js"
   ],
   "husky": {
     "hooks": {
